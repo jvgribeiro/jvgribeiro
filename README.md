@@ -4,6 +4,7 @@
 - 🔭 A procura de estágio e oportunidades de adquirir experiência!
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas na PUC MG.
 - 💬 Tentando ser o melhor possível sempre!
+
 <!--**jvgribeiro/jvgribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
